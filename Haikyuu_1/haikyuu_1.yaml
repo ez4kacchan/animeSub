@@ -1,7 +1,7 @@
 msubtitles:
-  - source: https://github.com/ez4kacchan/animeSub/tree/cc7821553a181ca40f431f5da851fde4149bcc1e/Haikyuu_1
+  - source: https://raw.githubusercontent.com/ez4kacchan/animeSub/main/Haikyuu_1/
     subtitles:
       - season: 1 
         items:
-          - path: /"E1 - The End and the Beginning.vi.srt"
+          - path: /E1.srt
 
